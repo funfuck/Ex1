@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;ex1&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../campaign" />
+      <root url="file://$PROJECT_DIR$/../testBeego" />
+      <root url="file://$PROJECT_DIR$/../testgorm" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../beegorm" />
+      <root url="file://$PROJECT_DIR$/../testIris" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../goResty" />
+      <root url="file://$PROJECT_DIR$/../xxx" />
+      <root url="file://$PROJECT_DIR$/../geeborm" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../campaign" />
+      <root url="file://$PROJECT_DIR$/../testBeego" />
+      <root url="file://$PROJECT_DIR$/../testgorm" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../beegorm" />
+      <root url="file://$PROJECT_DIR$/../testIris" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../goResty" />
+      <root url="file://$PROJECT_DIR$/../xxx" />
+      <root url="file://$PROJECT_DIR$/../geeborm" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
